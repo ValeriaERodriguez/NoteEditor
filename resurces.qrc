@@ -1,0 +1,12 @@
+<RCC>
+  <qresource>
+    <file>IMAGES/about.png</file>
+    <file>IMAGES/aboutQT.png</file>
+    <file>IMAGES/copy.png</file>
+    <file>IMAGES/cut.png</file>
+    <file>IMAGES/descarga.png</file>
+    <file>IMAGES/images.png</file>
+    <file>IMAGES/paste.png</file>
+    <file>IMAGES/quit.png</file>
+  </qresource>
+</RCC>
